@@ -1,0 +1,10 @@
+//
+// Created by 11 on 2024/6/4.
+//
+
+#ifndef TEST_ANALYZE_TEST_HEADER_H
+#define TEST_ANALYZE_TEST_HEADER_H
+
+#define MY_PI 3.14159265358
+
+#endif //TEST_ANALYZE_TEST_HEADER_H
